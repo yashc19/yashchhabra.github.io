@@ -1,4 +1,4 @@
-baseURL: "https://dylanlaplacemermoud.github.io" 
+baseURL: "https://yashchhabra.github.io" 
 title: Dylan Laplace Mermoud
 paginate: 20
 theme: PaperMod
@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "I am a postdoctoral researcher in quantum computing for combinatorial optimization at ENSTA Paris - Institut Polytechnique de Paris."
-    author: Dylan Laplace Mermoud
+    author: Yash Chhabra
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "02 Jan 2006"
     defaultTheme: light
@@ -51,12 +51,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Dylan Laplace Mermoud
-          subtitle: "I am a mathematician working in the field of discrete mathematics. Currently, I am a postdoctoral researcher in quantum computing for combinatorial optimization at ENSTA Paris - Institut Polytechnique de Paris. I also work on cooperative game theory, combinatorial geometry and algebraic combinatorics."
+          title: Yash Chhabra
+          subtitle: "I am a MSc student in Sustainble and Green Finance at the **NUS Business School**.
           imageUrl: "photo.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Dylan Laplace Mermoud
+          imageTitle: Yash Chhabra
           buttons:
             - name: Publications
               url: articles/
@@ -69,30 +69,30 @@ params:
             # - name: Archive
             #   url: archive/
     socialIcons:
-        - name: hal
-          url: https://hal.science/search/index/?q=*&authIdPerson_i=1215683
-        - name: arXiv
-          url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
-        - name: orcid
-          url: https://orcid.org/0000-0002-1508-9656
-        # - name: CV
-        #   url: cv.pdf
+        - #name: hal
+          #url: https://hal.science/search/index/?q=*&authIdPerson_i=1215683
+        - #name: arXiv
+          #url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
+        - #name: orcid
+          #url: https://orcid.org/0000-0002-1508-9656
+        - name: CV
+        url: cv.pdf
         # - name: Location
         #   url: location/
         # - name: Office Hours
         #   url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=haznRHoAAAAJ&hl=fr&oi=ao
+        #- name: Google Scholar
+         # url: https://scholar.google.com/citations?user=haznRHoAAAAJ&hl=fr&oi=ao
         # - name: YouTube
         #   url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/DylanLaplaceMermoud
+        # name: GitHub
+         # url: https://github.com/DylanLaplaceMermoud
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: Twitter
         #   url: https://twitter.com/pmichaillat
         - name: Email
-          url: mailto:dylan.laplace.mermoud@gmail.com
+          url: mailto:yash.c@u.nus.edu
 
     assets:
         disableHLJS: true
@@ -101,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Dylan Laplace Mermoud"
+      text: "Yash Chhabra"
       icon: logo2.ico
       iconHeight: 18
 
